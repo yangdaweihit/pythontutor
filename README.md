@@ -2,6 +2,8 @@
 
 - 对象：路桥本科2019级或其它
 - 目标：初步了解Python，能够自学进阶
+- 项目：https://github.com/yangdaweihit/pythontutor
+- [git教程](https://github.com/yangdaweihit/haohaolearn/tree/master/git)
 
 ## 文件
 
@@ -50,7 +52,7 @@
 
 - 时间：2020年10月10日18:00-20:00
 - 地点: B7216
-- 人数: 
+- 人数: 5 
 - 内容
   - 函数
   - 模块

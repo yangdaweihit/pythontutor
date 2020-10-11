@@ -30,13 +30,16 @@ from os import path as mypath
 from os.path import basename
 import sys
 
-print(os.path.basename(__file__))
-print(path.basename(__file__))
-print(mypath.basename(__file__))
-print(basename(__file__))
+# print(os.path.basename(__file__))
+# print(path.basename(__file__))
+# print(mypath.basename(__file__))
+# print(basename(__file__))
 
-# 搜索模块的路径列表
-print(sys.path)
+# # 搜索模块的路径列表
+# print(sys.path)
+
+
+# print(add.add(1,2))
 
 # 包(package)
 #

@@ -10,14 +10,12 @@ def functionName(parameter):
 import math
 import string
 
-
 # 例1
 def heron(a, b, c):
     s = (a + b + c) / 2
     return math.sqrt(s * (s - a) * (s - b) * (s - c))
 
-
-print(heron(3, 4, 5))
+# print(heron(3, 4, 5))
 
 # # 例2
 # def letter_count(text, letters=string.ascii_letters):
@@ -46,6 +44,7 @@ print(heron(3, 4, 5))
 #     for arg in args:
 #         result *= arg
 #     return result
+
 
 # print(product(5, 3, 8))
 # print(product(1, 2, 3, 4))
@@ -93,7 +92,7 @@ print(heron(3, 4, 5))
 #         print("  {0} = {1}".format(key, kwargs[key]))
 
 # add_person_details(123, "Mike", forename="Lexis", age=47)
-# add_person_details(123, "Mike", forename="Lexis", age=47, gender='female')
+# add_person_details(123, "Mike", forename="Lexis", age=47, gender='male')
 
 # # 例9
 # def print_args(*args, **kwargs):

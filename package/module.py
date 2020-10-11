@@ -2,4 +2,4 @@
 # -*- coding: utf-8 -*-
 
 def foo():
-    print("calling foo_test")
+    print("calling foo_in_module")

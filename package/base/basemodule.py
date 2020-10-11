@@ -7,5 +7,5 @@ a = 1
 
 
 def foo():
-    print("calling foo in basemodule")
+    print("calling foo_base_module")
     module.foo()
